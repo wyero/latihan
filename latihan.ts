@@ -13,3 +13,6 @@ class Bunga implements bunga{
         this.warnaBunga = warnaBunga;
     }
 }
+
+const BBunga = new daftarBunga("Orchidaceae","Anggrek","Ungu")
+console.log(BBunga)
